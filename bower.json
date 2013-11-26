@@ -1,0 +1,22 @@
+{
+  "name": "asteroids-landing",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ceres-pallas/asteroids-landing",
+  "authors": [
+    "Robin van Kaathoven <robin.vankaathoven@luminis.eu>"
+  ],
+  "description": "A landing page for the asteroids game",
+  "main": "index.html",
+  "keywords": [
+    "asteroids",
+    "landing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
